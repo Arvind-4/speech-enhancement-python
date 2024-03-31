@@ -1,0 +1,18 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "editor.fontSize": 23,
+    "terminal.integrated.fontSize": 22,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+      },
+    "files.exclude": {
+      "**/.git": false,
+      "**/.svn": false,
+      "**/.hg": false,
+      "**/CVS": false,
+      "**/.DS_Store": false,
+      "**/Thumbs.db": false,
+      "**/*.crswap": false
+    }
+}
